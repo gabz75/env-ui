@@ -1,0 +1,6 @@
+{
+  "preset": "airbnb",
+  "excludeFiles": ["app/mirage/fixtures/**"],
+  "requireCamelCaseOrUpperCaseIdentifiers": false,
+  "validateQuoteMarks": { "mark": "'", "escape": true },
+}
